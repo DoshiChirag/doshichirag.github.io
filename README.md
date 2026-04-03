@@ -1,2 +1,2 @@
-index.html
-Certifications Web Page Links
+Certifications Folder Has all the certifications
+Resumes has all the resumes
